@@ -22,6 +22,10 @@ Santos Modelados e Impresos en Recina 3D
 
 👉https://github.com/raulcarabajo-0820/Santos-Modelados-e-Impresos-en-Recina-3D
 
+Esqueleto de Caballo en 3D
+
+👉https://github.com/raulcarabajo-0820/Esqueleto-de-Caballo-en-3D
+
 📸 Galeria
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6817a2de-d519-4cfd-9bb5-24d0e2d0e9df" width="18%">
@@ -29,4 +33,5 @@ Santos Modelados e Impresos en Recina 3D
   <img src="https://github.com/user-attachments/assets/d253925d-4301-4824-b0f0-087444c261e3" width="18%">
   <img src="https://github.com/user-attachments/assets/0c03ff00-8206-46d1-94af-2fa49ed43415" width="18%">
   <img src="https://github.com/user-attachments/assets/33876691-2de8-414d-8af2-dde93b470e6e" width="18%">
+  <img src="https://github.com/user-attachments/assets/7039694b-7e71-4c5b-908b-b3c70b7e0ff6" width="18%">
 </p>>

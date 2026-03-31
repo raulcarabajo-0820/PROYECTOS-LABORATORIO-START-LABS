@@ -24,7 +24,9 @@ Santos Modelados e Impresos en Recina 3D
 
 📸 Galeria
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/706205cf-e2e0-4067-a76e-df3147cf657d" width="30%">
-  <img src="https://github.com/user-attachments/assets/4a571ec2-43f7-4411-923c-3cd26ace455e" width="30%">
-  <img src="https://github.com/user-attachments/assets/43e963e1-4d93-4595-b359-0a90968f4401" width="30%">
-</p>
+  <img src="https://github.com/user-attachments/assets/6817a2de-d519-4cfd-9bb5-24d0e2d0e9df" width="15%">
+  <img src="https://github.com/user-attachments/assets/9d739b5f-95a2-4735-b84a-e26a3fd5fe09" width="15%">
+  <img src="https://github.com/user-attachments/assets/d253925d-4301-4824-b0f0-087444c261e3" width="15%">
+  <img src="https://github.com/user-attachments/assets/0c03ff00-8206-46d1-94af-2fa49ed43415" width="15%">
+  <img src="https://github.com/user-attachments/assets/33876691-2de8-414d-8af2-dde93b470e6e" width="15%">
+</p>>

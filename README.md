@@ -4,9 +4,11 @@ En el laboratorio de Start Labs desarrollamos proyectos utilizando herramientas 
 PROYECTOS REALIZADOS
 Figura Santo Personalizada
 
-Diseño e impresión 3D de figura personalizada
-
 👉 https://github.com/raulcarabajo-0820/Figura-Santo-Personalizada
+
+Ajedrez con Figuras Religiosas Perzonalizadas
+
+👉 https://github.com/raulcarabajo-0820/Ajedrez-con-Figuras-Religiosas-Personalizadas-en-3D
 
 📸 Galeria
 <p align="center">

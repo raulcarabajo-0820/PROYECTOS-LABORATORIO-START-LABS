@@ -10,6 +10,10 @@ Ajedrez con Figuras Religiosas Perzonalizadas
 
 👉 https://github.com/raulcarabajo-0820/Ajedrez-con-Figuras-Religiosas-Personalizadas-en-3D
 
+Modelo Anatomico Desmontable del Cerebro en 3D
+
+👉https://github.com/raulcarabajo-0820/Modelo-Anat-mico-Desmontable-del-Cerebro-en-3D
+
 📸 Galeria
 <p align="center">
   <img src="https://github.com/user-attachments/assets/706205cf-e2e0-4067-a76e-df3147cf657d" width="30%">

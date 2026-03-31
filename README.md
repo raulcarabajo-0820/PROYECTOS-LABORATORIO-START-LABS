@@ -2,7 +2,11 @@
 En el laboratorio de Start Labs desarrollamos proyectos utilizando herramientas de fabricación digital, orientados a la innovación, el prototipado y la producción de piezas funcionales.
 
 PROYECTOS REALIZADOS
-TABLERO DE AJEDREZ CON SANTOS-ESCANEO DE CRANEOS-ESCANEO DE CABALLO-SANTO IMPRESO MULTICOLOR DIFERENTES TAMAÑOS-MODELO DE CEREBRO-FIGURAS DE SANTOS RESINA-COMUNICACION ENTRE PANTALLAS
+🕍 Figura Santo Personalizada
+
+Diseño e impresión 3D de figura personalizada
+
+👉 https://github.com/raulcarabajo-0820/Figura-Santo-Personalizada
 
 📸 Galeria
 <p align="center">
